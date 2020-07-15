@@ -8,8 +8,8 @@ Like government could decide according to the sentiments of public as root imple
 
 # Visualisation
 
-Word Cloud
-Count Plot
-Histogram
-Distribution Plot
-Bar Plot
+# Word Cloud
+# Count Plot
+# Histogram
+# Distribution Plot
+# Bar Plot
