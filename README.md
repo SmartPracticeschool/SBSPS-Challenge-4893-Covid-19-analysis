@@ -5,3 +5,11 @@ The COVID-19 pandemic has overwhelmed the entire world, and India also has borne
 Knowing the impact of it also very important for government to take measures.Sentiment Analysis of tweets polarity on twitter can help government to enable to describe quantitatively the opinion of active users on social networks with respect to the topics of interest to the Public Administration.
 
 Like government could decide according to the sentiments of public as root implementers of schemes ,it is impossible to enforce lockdown successfully without consent of public. It can also be helpful for administration and health care managment to know the opinion of public and react accordingly. Sentiment analysis can help government on deciding lockdown extension period.
+
+# Visualisation
+
+Word Cloud
+Count Plot
+Histogram
+Distribution Plot
+Bar Plot
