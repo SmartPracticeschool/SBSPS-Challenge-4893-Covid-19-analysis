@@ -13,3 +13,7 @@ Like government could decide according to the sentiments of public as root imple
 #### Histogram
 #### Distribution Plot
 #### Bar Plot
+
+
+##LINK TO PRESENTATION:
+https://docs.google.com/presentation/d/1k1cSVGZSuAVXL-pFHbRKLtKG5cqEwpGW4wCelgFtx-M/edit?usp=sharing
